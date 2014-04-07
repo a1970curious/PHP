@@ -34,11 +34,11 @@
 								include('contact.php');
 							} else
 							{
-								include('content/home.php');
+								include('home.php');
 							}
 							break;
 						default:
-							include('content/home.php');
+							include('home.php');
 							break;
 					} 
 				} else 
