@@ -1,8 +1,10 @@
 PHP
 ===
 
-Mail scripts PHP Website
+PHP Website Scripts
 
-Consisting of several mail scripts, using the php mail() function or using set smtp servers (with or without ssl)
+Consisting of several script's for use on website.
+In the folder navigation script's using the switch() function.
+In the folder mail script's using the mail() function and pre-set SMTP server's (with or without SSL).
 
-Feel free to add more mailing related script to this branch.
+Feel free to add other usefull scripts, though please keep this repository free of garbage.
